@@ -54,6 +54,6 @@ features:
 ## :email: 联系
 
 - **邮箱**: <wufankong@163.com>
-- **GitHub**: <https://github.com/wufankong/fe-spec>
+- **GitHub**: <https://github.com/wufankong/de-spec>
 
 </br>
